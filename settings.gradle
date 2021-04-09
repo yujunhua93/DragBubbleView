@@ -1,0 +1,3 @@
+include ':dragBubbleView'
+include ':app'
+rootProject.name = "DragBubbleView"
